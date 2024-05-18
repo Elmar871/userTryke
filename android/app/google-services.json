@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "513185890115",
+    "firebase_url": "https://tryke-app-with-admin-fd5e0-default-rtdb.firebaseio.com",
+    "project_id": "tryke-app-with-admin-fd5e0",
+    "storage_bucket": "tryke-app-with-admin-fd5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513185890115:android:5cf2ca50b3fd348313b9f6",
+        "android_client_info": {
+          "package_name": "com.egoncastle.drivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ak_aEyb_JJ1WAhZ0x4BhzYYjrUJi5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513185890115:android:2344ec863620ebb313b9f6",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ak_aEyb_JJ1WAhZ0x4BhzYYjrUJi5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513185890115:android:074194a400175f2d13b9f6",
+        "android_client_info": {
+          "package_name": "com.tryke.drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ak_aEyb_JJ1WAhZ0x4BhzYYjrUJi5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513185890115:android:50493974c15af29b13b9f6",
+        "android_client_info": {
+          "package_name": "com.tryke1.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ak_aEyb_JJ1WAhZ0x4BhzYYjrUJi5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
